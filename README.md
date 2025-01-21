@@ -2,6 +2,8 @@
 At present, I have not used the useful comfyui custom node about layer mixing, and I have written a comfyui runtime automatic pop-up window for layer editing node
 # ComfyUI Web Canvas Node
 
+
+想了很久，这个项目就叫，layersDiccc，哦算了，imgcanvas吧。
 一个用于 ComfyUI 的交互式图像编辑节点扩展，提供了直观的 Web 画布界面，支持图像的实时编辑、混合和蒙版操作。
 非pyqt项目，鉴于macos上运行pyqt项目总是莫名其妙出现一堆问题，我使用js和python后台进行了前后端项目的重构。
 ![image](https://github.com/user-attachments/assets/d29309f4-815c-4ac7-9faa-9b11bac019c9)
@@ -101,6 +103,8 @@ git clone [repository_url]
 
 ## 更新日志
 
+## 欢迎请我喝豆浆，谢谢
+
 ### v1.0.0
 - 初始版本发布
 - 实现基本的图像编辑功能
@@ -108,10 +112,10 @@ git clone [repository_url]
 ![image](https://github.com/user-attachments/assets/3e0d40ba-65ff-4fae-9c3d-c27099a23107)
 ![image](https://github.com/user-attachments/assets/7a155747-be10-4017-8da9-4e13af923dc5)
 ![image](https://github.com/user-attachments/assets/46724ae2-9866-4326-a25e-9a44e78282c0)
-![Uploading image.png…]()
 
 
-# 当然我还做了一个专业的大杯版本，支持10张图的自由混合，如果需要可以私信我
+
+# 当然我还做了一个专业的大杯版本，支持10张图的自由混合，图层顺序挑换，等等等功能。
 ![image](https://github.com/user-attachments/assets/db851ad3-cea2-4b53-aadc-d1b61501647b)
 ![image](https://github.com/user-attachments/assets/70769a18-9f1b-4ccd-9e36-12f3c96b77b0)
 ![image](https://github.com/user-attachments/assets/32f4f6a8-06bd-4c6a-85f8-0e72f17db764)
