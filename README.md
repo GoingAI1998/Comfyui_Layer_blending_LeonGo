@@ -1,4 +1,4 @@
-# Comfyui_Layer_blending_LeonGo
+![image](https://github.com/user-attachments/assets/34db0c90-8beb-4daf-8130-45268f3ca2d1)# Comfyui_Layer_blending_LeonGo
 At present, I have not used the useful comfyui custom node about layer mixing, and I have written a comfyui runtime automatic pop-up window for layer editing node
 # ComfyUI Web Canvas Node
 
@@ -6,6 +6,7 @@ At present, I have not used the useful comfyui custom node about layer mixing, a
 想了很久，这个项目就叫，layersDiccc，哦算了，imgcanvas吧。
 一个用于 ComfyUI 的交互式图像编辑节点扩展，提供了直观的 Web 画布界面，支持图像的实时编辑、混合和蒙版操作。
 非pyqt项目，鉴于macos上运行pyqt项目总是莫名其妙出现一堆问题，我使用js和python后台进行了前后端项目的重构。
+
 ![image](https://github.com/user-attachments/assets/d29309f4-815c-4ac7-9faa-9b11bac019c9)
 
 ## 功能特点
@@ -109,6 +110,9 @@ git clone [repository_url]
 - 初始版本发布
 - 实现基本的图像编辑功能
 - 添加交互式 Web 界面
+
+![image](https://github.com/user-attachments/assets/eae6441b-b7c3-431a-94ab-7d1d70a80c40)
+![image](https://github.com/user-attachments/assets/8e844aaf-4129-4dfd-a0b6-3362cb335a6b)
 ![image](https://github.com/user-attachments/assets/3e0d40ba-65ff-4fae-9c3d-c27099a23107)
 ![image](https://github.com/user-attachments/assets/7a155747-be10-4017-8da9-4e13af923dc5)
 ![image](https://github.com/user-attachments/assets/46724ae2-9866-4326-a25e-9a44e78282c0)
