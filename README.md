@@ -105,10 +105,11 @@ git clone [repository_url]
 - 初始版本发布
 - 实现基本的图像编辑功能
 - 添加交互式 Web 界面
-<img width="1462" alt="image" src="https://github.com/user-attachments/assets/0c95b5bf-5175-457a-a77d-256f3bb3e7d3">
+![image](https://github.com/user-attachments/assets/3e0d40ba-65ff-4fae-9c3d-c27099a23107)
+![image](https://github.com/user-attachments/assets/7a155747-be10-4017-8da9-4e13af923dc5)
+![image](https://github.com/user-attachments/assets/46724ae2-9866-4326-a25e-9a44e78282c0)
+![Uploading image.png…]()
 
-![image](https://github.com/user-attachments/assets/c3d164d3-f56d-4a34-808f-c3bd4570bb56)
-<img width="1220" alt="image" src="https://github.com/user-attachments/assets/a3b3c228-f5ea-4f46-a4b1-bbfd13ded996" />
 
 # 当然我还做了一个专业的大杯版本，支持10张图的自由混合，如果需要可以私信我
 ![image](https://github.com/user-attachments/assets/db851ad3-cea2-4b53-aadc-d1b61501647b)
