@@ -4,6 +4,7 @@ At present, I have not used the useful comfyui custom node about layer mixing, a
 
 一个用于 ComfyUI 的交互式图像编辑节点扩展，提供了直观的 Web 画布界面，支持图像的实时编辑、混合和蒙版操作。
 非pyqt项目，鉴于macos上运行pyqt项目总是莫名其妙出现一堆问题，我使用js和python后台进行了前后端项目的重构。
+![image](https://github.com/user-attachments/assets/d29309f4-815c-4ac7-9faa-9b11bac019c9)
 
 ## 功能特点
 
@@ -106,4 +107,11 @@ git clone [repository_url]
 - 添加交互式 Web 界面
 <img width="1462" alt="image" src="https://github.com/user-attachments/assets/0c95b5bf-5175-457a-a77d-256f3bb3e7d3">
 
-<img width="1495" alt="image" src="https://github.com/user-attachments/assets/4e7457c8-7c03-44ee-b263-e74e2d58207a" />
+![image](https://github.com/user-attachments/assets/c3d164d3-f56d-4a34-808f-c3bd4570bb56)
+<img width="1220" alt="image" src="https://github.com/user-attachments/assets/a3b3c228-f5ea-4f46-a4b1-bbfd13ded996" />
+
+# 当然我还做了一个专业的大杯版本，支持10张图的自由混合，如果需要可以私信我
+![image](https://github.com/user-attachments/assets/db851ad3-cea2-4b53-aadc-d1b61501647b)
+![image](https://github.com/user-attachments/assets/70769a18-9f1b-4ccd-9e36-12f3c96b77b0)
+![image](https://github.com/user-attachments/assets/32f4f6a8-06bd-4c6a-85f8-0e72f17db764)
+
